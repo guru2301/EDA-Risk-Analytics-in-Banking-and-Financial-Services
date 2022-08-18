@@ -1,5 +1,8 @@
 # EDA-Risk-Analytics-in-Banking-and-Financial-Services
 
+Download the dataset from the link below.  
+https://drive.google.com/open?id=16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB
+
 The loan providing companies find it hard to give loans to the people due to their insufficient or non-existent credit history. Because of that, some consumers use it as their advantage by becoming a defaulter. I have used EDA to analyse the patterns present in the data. This will ensure that the applicants capable of repaying the loan are not rejected.
 
  
